@@ -1,0 +1,4 @@
+:HL["/landing_page_cyclowatt_2/_next/static/chunks/08581b24b08a78ce.css","style"]
+:HL["/landing_page_cyclowatt_2/_next/static/chunks/25d7875cb5ae30f1.css","style"]
+:HL["/landing_page_cyclowatt_2/_next/static/media/e8f2fbee2754df70-s.p.9b7a96b4.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+0:{"buildId":"BFpw49HyJJeJ9HG9fQw1q","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"gallery","paramType":null,"paramKey":"gallery","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
